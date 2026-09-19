@@ -1,0 +1,16 @@
+Answer:
+**Six core pillars of an Agentic AI system (from perception to execution)**  
+
+| Pillar | Description (as per the provided context) |
+|--------|-------------------------------------------|
+| **Perception** | The AI’s “eyes and ears,” converting raw data (e.g., images, text) into actionable insights. (Page 13) |
+| **Reasoning** | The “brain” that detects patterns, makes connections, and draws conclusions. (Page 13) |
+| **Planning** | The process of devising a sequence of actions to achieve goals. (Page 13) |
+| **Learning** | The ability to adapt and improve over time based on experience. (Page 13) |
+| **Execution** | Carrying out the planned actions in the
+
+Chunks:
+Chunk 0 (page 3): "Agentic AI\nAn Executive's Guide to In-depth\nUnderstanding of Agentic AI"
+Chunk 1 (page 11): 'ANATOMY OF\nAN AGENTIC AI\nSYSTEM\nIn this section, we explore the core components of agentic AI, expla'
+Chunk 2 (page 13): 'AGENTIC AI FOR EXECUTIVES\n2.1 The Core Pillars: From Perception to Execution\nAgentic AI systems func'
+Chunk 3 (page 5): 'Table of Contents\n01\nIntroduction to Agentic AI\n02\nAnatomy of an Agentic AI System\n03\nMulti-Agent Sy'
