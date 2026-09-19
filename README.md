@@ -6,7 +6,7 @@ Built with **LangGraph** for orchestration, **FAISS** as the vector store, **sen
 
 🔗 **Live Demo:** _[add your deployed Streamlit link here]_
 
-🎥 **Video Walkthrough:** _[add your demo video link here — Loom / YouTube (unlisted) / Google Drive]_
+🎥 **Video Walkthrough:** https://drive.google.com/file/d/1tmhmHqKg8CRrtVLDd6eNC91pmhHholZh/view?usp=sharing
 
 > A ~2–3 min walkthrough covering: the architecture, a live query, the "I don't know" grounding test, and one of the bugs found + fixed during testing.
 
