@@ -4,7 +4,7 @@ A RAG (Retrieval-Augmented Generation) chatbot that answers questions strictly g
 
 Built with **LangGraph** for orchestration, **FAISS** as the vector store, **sentence-transformers** for embeddings, and **Groq (Llama 3.1)** as the LLM. Exposed via **FastAPI**, with an optional **Streamlit** UI.
 
-🔗 **Live Demo:** _[add your deployed Streamlit link here]_
+🔗 **Live Demo:** https://agentic-ai-rag-chatbot-twap5ww3fjd3xvyompxrq5.streamlit.app/
 
 🎥 **Video Walkthrough:** https://drive.google.com/file/d/1tmhmHqKg8CRrtVLDd6eNC91pmhHholZh/view?usp=sharing
 
